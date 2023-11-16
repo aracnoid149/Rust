@@ -25,7 +25,7 @@ not started
 ## ind_reactance.py 
 not started 
 ## ohms_law.py 
-not started 
+work in progress 
 ## real_and_reactive_power.py 
 not started 
 ## resistor_color_code.py 
