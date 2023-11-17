@@ -31,7 +31,7 @@ not started
 ## resistor_color_code.py 
 not started 
 ## resistor_equivalence.py 
-not started 
+Work in progress
 ## resonant_frequency.py
 not started 
 ## wheatstone_bridge.py
