@@ -2,15 +2,13 @@
 
 ## apparent_power.py 
 
-work in progress 
-- [ ] file created
+- [x] file created
 - [ ] program written
 - [ ] testing completed
 - [ ] comitted
 
 ## builtin_voltage.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -18,7 +16,6 @@ not started
 
 ## capacitor_equivalence.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -26,7 +23,6 @@ not started
 
 ## carrier_concentration.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -34,7 +30,6 @@ not started
 
 ## charging_capacitor.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -42,7 +37,6 @@ not started
 
 ## charging_inductor.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -50,7 +44,6 @@ not started
 
 ## circular_convolution.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -65,7 +58,6 @@ not started
 
 ## electric_conductivity.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -73,7 +65,6 @@ not started
 
 ## electric_power.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -81,7 +72,6 @@ not started
 
 ## electrical_impedance.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -89,7 +79,6 @@ not started
 
 ## ic_555_timer.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -97,7 +86,6 @@ not started
 
 ## ind_reactance.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -105,15 +93,13 @@ not started
 
 ## ohms_law.py 
 
-work in progress
-- [ ] file created
+- [x] file created
 - [ ] program written
 - [ ] testing completed
 - [ ] comitted
 
 ## real_and_reactive_power.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -121,7 +107,6 @@ not started
 
 ## resistor_color_code.py 
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -129,15 +114,13 @@ not started
 
 ## resistor_equivalence.py 
 
-Work in progress
-- [ ] file created
+- [x] file created
 - [ ] program written
 - [ ] testing completed
 - [ ] comitted
 
 ## resonant_frequency.py
 
-not started 
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
@@ -145,7 +128,6 @@ not started
 
 ## wheatstone_bridge.py
 
-not started
 - [ ] file created
 - [ ] program written
 - [ ] testing completed
